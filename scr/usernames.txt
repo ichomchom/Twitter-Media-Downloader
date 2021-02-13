@@ -1,0 +1,3 @@
+my_twitter_username
+friend_username
+some_one
